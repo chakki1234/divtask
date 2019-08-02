@@ -1,0 +1,177 @@
+body{
+    color: red;
+}
+
+#mainbx{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    top: 0px;
+    left: 0px;
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+
+#mainbx2{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    top: 600px;
+    left: 500px;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* for div */
+
+/* #pt-ul{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 0px; 
+    left: 0px;
+}
+
+#pt-ur{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    right: 0px; 
+    top: 0px;
+}
+
+#pt-bl{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    bottom: 0px; 
+    left: 0px;
+}
+
+#pt-br{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    bottom: 0px; 
+    right: 0px;
+}
+
+#pt-ml{
+    background-color: white;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 250px; 
+    left: 10px;
+}
+
+#pt-mr{
+    background-color: black;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 250px; 
+    right: 0px;
+} */
+/* ====== */
+
+#reful{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+}
+
+
+#refur{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+}
+
+#refbl{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;    
+}
+
+
+#refbr{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+}
+
+
+/* ================  fot div2*/
+
+#pt-ul{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 10px; 
+    left: 10px;
+}
+
+#pt-ur{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    left: 500px; 
+    top: 10px;
+}
+
+#pt-bl{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 500px; 
+    left: 10px;
+}
+
+#pt-br{
+    background-color: red;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 500px; 
+    left: 500px;
+}
+
+#pt-ml{
+    background-color: white;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 250px; 
+    left: 10px;
+}
+
+#pt-mr{
+    background-color: black;
+    width: 10px; 
+    height: 10px; 
+    position: absolute; 
+    top: 250px; 
+    left: 500px;
+}
